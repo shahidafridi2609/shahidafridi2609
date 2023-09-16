@@ -1,10 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey Guys👋, What's up?</h1>
 
 ###
 
-<br clear="both">
-
-<p align="left">My name is Shahid Afridi and I'm a web designer and developer.</p>
+<p align="left">My name is Shahid Afridi and I'm a web designer and developer.<br><br>✨ Creating bugs since ...<br>📚 I'm currently learning Full Stack Development.<br>🎲 Fun fact: I'm interested more in animations and Game design.</p>
 
 ###
 
@@ -38,6 +36,17 @@
 
 ###
 
+<h2 align="left">My Stats</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shahidafridi2609&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahidafridi2609&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <h2 align="left">Connect with me</h2>
 
 ###
@@ -55,13 +64,6 @@
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/shahidafridi2609/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahidafridi2609&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahidafridi2609&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
