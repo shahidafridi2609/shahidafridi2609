@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Shahid Afridi and I'm a web designer and developer.<br><br>✨ Working since 2021<br>📚 I'm currently learning Full Stack Development.<br>🎲 Fun fact: I'm interested more in animations and Game design.</p>
+<p align="left">My name is Shahid Afridi and I'm a web designer and developer.<br><br>✨ Working since 2021<br>📚 I'm currently learning Full Stack Development.<br>🎲 Fun fact: I'm more interested in animations and Game design.</p>
 
 ###
 
