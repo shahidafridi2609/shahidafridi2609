@@ -2,14 +2,14 @@
 
 ###
 
-<p align="left">My name is Shahid Afridi and I'm a web designer & Developer.</p>
+<br clear="both">
+
+<p align="left">My name is Shahid Afridi and I'm a web designer & Developer.<br><br>My Interests are<br>web Development,<br>web Designing,<br>Blender Animations,<br>Game development.</p>
 
 ###
 
-<br clear="both">
-
 <div align="center">
-  <img height="201" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp4711926.jpg&f=1&nofb=1&ipt=08df08926e0eb18a435ce5612cd7610cd5a3b84a13f888d728b33a3a8a89d168&ipo=images"  />
+  <img height="201" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"  />
 </div>
 
 ###
@@ -49,7 +49,7 @@
 
 ###
 
-<h2 align="left">Hello World!!</h2>
+<h2 align="left">Connect with me</h2>
 
 ###
 
