@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Shahid Afridi, learning full-stack developer 👨‍💻.</div>  
+### <div align="center">I'm Shahid Afridi, learning full-stack development 👨‍💻.</div>  
   
 
 - 🔭 I’m currently working on Vehicle Tracking   
